@@ -145,6 +145,14 @@
     <footer>
         <p>&copy; 2025 Varshasri. All rights reserved.</p>
     </footer>
+    <script>
+    // Toggle menu on small screens
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  </script>
 
 </body>
 
