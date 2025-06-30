@@ -54,7 +54,7 @@ nav ul li a:hover {
 .home {
     width: 100vw;
     height: 100vh;
-    background: url('https://static.vecteezy.com/system/resources/previews/038/974/578/non_2x/ai-generated-professional-portrait-of-a-competent-woman-free-photo.jpg') no-repeat center center/cover;
+    background: url('https://plus.unsplash.com/premium_photo-1683309567322-e95b9f182dcc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
